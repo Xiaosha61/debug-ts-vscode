@@ -1,0 +1,7 @@
+{
+    "debug.node.autoAttach": "on",
+    "debug.javascript.autoAttachFilter": "onlyWithFlag",
+    "debug.javascript.pickAndAttachOptions": {
+        "sourceMaps": true,
+    }
+}
